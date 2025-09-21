@@ -18,3 +18,5 @@ bewcloud.config.ts
 
 # Radicale files
 data-radicale/
+.env*
+credentials*
